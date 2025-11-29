@@ -38,4 +38,4 @@ int main() {
     sPtr = NULL;
 
     return 0;
-}
+    }
